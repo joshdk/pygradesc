@@ -56,7 +56,10 @@ print(points)
 # points[999] -> [ 0.99..,  1.99..,  2.47..e-31]
 ```
 
+Dependencies
+------------
 
+*   [numpy](http://numpy.scipy.org/)
 
 
 
