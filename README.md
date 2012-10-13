@@ -7,7 +7,7 @@ An n-dimensional gradient descent algorithm
 Example
 -------
 
-![Example output](https://raw.github.com/joshdk/pygradesc/master/img/graph1.png "Example output")
+![Example output from demo.py](https://raw.github.com/joshdk/pygradesc/master/img/graph1.png "Example output from demo.py")
 
 
 Usage
@@ -67,6 +67,7 @@ print(points)
 Dependencies
 ------------
 
+*   [Python2](http://www.python.org/download/releases/2.7.3/)
 *   [NumPy](http://numpy.scipy.org/)
 
 
