@@ -48,13 +48,21 @@ steps = 1000
 
 # Get a list of points for each step in the algorithm
 points = gd.minimize(fxy, start, delta, steps)
+```
 
+### Printing
+
+```python
 print(points)
 # points[0]   -> [-2.0,    -6.0,     73.0      ]
 # points[1]   -> [-1.83.., -5.82..,  69.21..   ]
 # ..
 # points[999] -> [ 0.99..,  1.99..,  2.47..e-31]
 ```
+
+### Plotting
+
+![f(x,y)=(x-1)^2+(y-2)^2](https://raw.github.com/joshdk/pygradesc/master/img/graph2.png "f(x,y)=(x-1)^2+(y-2)^2")
 
 Dependencies
 ------------
