@@ -59,7 +59,7 @@ print(points)
 Dependencies
 ------------
 
-*   [numpy](http://numpy.scipy.org/)
+*   [NumPy](http://numpy.scipy.org/)
 
 
 
